@@ -11,7 +11,7 @@
 - **Framework/Library:** JSP, Servlet
 - **Tools:** Git
 
-### 🖥 주요 화면 (Key Screens)
+### 🖥 구현 화면 (Key Screens)
 
 | EXERD | 로그인 |
 | :---: | :---: |
