@@ -13,7 +13,7 @@
 
 ### 🖥 주요 화면 (Key Screens)
 
-| EXERD | 로그인 화면 |
+| EXERD | 로그인 |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/e6492d96-0611-4661-ae0d-61f14fa48924" width="400"> | <img src="https://github.com/user-attachments/assets/e650dec7-19c8-4369-9e79-bb3380e39171" width="400"> |
 | **회원정보 수정** | **주문내역 조회** |
