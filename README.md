@@ -8,8 +8,8 @@
 - **Language:** JAVA, HTML5, CSS3, JavaScript, jQuery
 - **Server:** Apache Tomcat
 - **Database:** Oracle DB, eXERD (DB Modeling)
-- **Framework/Library:** JSP, Servlet, JDBC
-- **Tools:** GitHub
+- **Framework/Library:** JSP, Servlet
+- **Tools:** Git
 
 ### 🖥 주요 화면 (Key Screens)
 
